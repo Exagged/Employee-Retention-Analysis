@@ -2,6 +2,9 @@
 
 **Dashboard Link:** [Looker Studio Dashboard](https://lookerstudio.google.com/reporting/ebaf8924-e647-4bb0-860b-1d9e1b40f7cd)
 
+**Run the notebook here**: [Open in Google Colab](https://colab.research.google.com/drive/1fE4m31FoLCTwCr3egESpqIU2s8aSEc9l)
+
+
 ---
 
 ## Project Overview 📖
